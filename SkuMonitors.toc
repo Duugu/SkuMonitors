@@ -1,0 +1,18 @@
+## Interface: 40400
+## Interface-Wrath: 30404
+## Title: SkuMonitors (0.01)
+## SavedVariables: SkuMonitorsOptionsDB
+## Dependencies: SkuMenu
+## Version: 0.01
+## X-Curse-Project-ID: 
+
+embeds.xml
+
+locales\enUS.lua
+locales\deDE.lua
+
+SkuDispatcher\Core.lua
+
+core.lua
+aq.lua
+aqCombat.lua
