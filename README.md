@@ -1,2 +1,1 @@
-# SkuMonitors
- 
+This is an addon for World of Warcraft Retail that is providing audio monitoring capabilities for blind and visually impaired players. It requires the SkuMenu addon to be installed.
